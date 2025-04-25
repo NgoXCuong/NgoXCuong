@@ -1,5 +1,5 @@
 
-## 🌐Socials:
+## 🌐CUONG'S SOCIAL NETWORK:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/namay.changtrai.1428921) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__nc_it__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-ng%C3%B4-xu%C3%A2n-807485329/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@__nc_it__) 
 
 # 💻Tech Stack:
