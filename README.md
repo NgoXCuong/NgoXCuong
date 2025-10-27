@@ -1,6 +1,6 @@
 # 👋 Xin chào! Tôi là **Ngô Xuân Cường (CuongNC)**
 
-🎯 **Chức danh:** Fullstack Developer / Software Engineer  
+🎯 **Chức danh:** Software Engineer  
 🌍 **Vị trí:** Việt Nam  
 💬 **Sở thích:** Coding, khám phá công nghệ mới, học hỏi và chia sẻ kiến thức  
 
