@@ -62,8 +62,8 @@
 
 ### ✍️ Câu nói truyền cảm hứng
 <p align="center">
-  "Hãy học hỏi như thể bạn sẽ sống mãi, hãy sống như thể ngày mai sẽ kết thúc."\n
-  "Thành công không đến với người chờ đợi, mà thuộc về kẻ dám tự lập và theo đuổi ước mơ của chính mình." 
+  "Hãy học hỏi như thể bạn sẽ sống mãi, hãy sống như thể ngày mai sẽ kết thúc."<br/>
+  "Thành công không đến với người chờ đợi, mà thuộc về kẻ dám tự lập và theo đuổi ước mơ của chính mình."
 </p>
 
 
