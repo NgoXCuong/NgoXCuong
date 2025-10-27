@@ -60,10 +60,12 @@
 
 ---
 
-### ✍️ Random Dev Quote
+### ✍️ Câu nói truyền cảm hứng
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  "Hãy học hỏi như thể bạn sẽ sống mãi, hãy sống như thể ngày mai sẽ kết thúc."\n
+  "Thành công không đến với người chờ đợi, mà thuộc về kẻ dám tự lập và theo đuổi ước mơ của chính mình." 
 </p>
+
 
 ---
 
