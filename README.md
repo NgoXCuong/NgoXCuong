@@ -53,20 +53,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=NgoXCuong&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
 ### ✍️ Câu nói truyền cảm hứng
 <p align="center">
   "Hãy học hỏi như thể bạn sẽ sống mãi, hãy sống như thể ngày mai sẽ kết thúc."<br/>
   "Thành công không đến với người chờ đợi, mà thuộc về kẻ dám tự lập và theo đuổi ước mơ của chính mình."
 </p>
-
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=NgoXCuong&icon=0&color=0)
