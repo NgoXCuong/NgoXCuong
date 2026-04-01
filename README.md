@@ -36,9 +36,6 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NgoXCuong&theme=radical&show_icons=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgoXCuong&theme=radical&layout=compact" width="41%" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NgoXCuong&theme=radical" width="90%" />
 </div>
 
